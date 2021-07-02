@@ -1,0 +1,7 @@
+#Notes-2021-07-02
+`dpkg --info` : Displays information on a package
+`dpkg --status` : Same as --info, but less detail
+`dpkg -l` : Lists out packages that match the string provided
+`dpkg -i` : Installs specified packages
+`dpkg -L` : Lists out all files that were installed with a specified package
+
